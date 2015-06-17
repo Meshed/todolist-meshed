@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\workspace\todolist-meshed\todolist_meshed\todolist_meshed.windows\obj\debug\intermediatexaml\todolist_meshed.windows.exe" HashGuid="ec842194-5ddf-076f-f5c7-f626791f79e8" />
+    <ReferenceAssembly PathName="c:\workspace\todolist-meshed\packages\windowsazure.mobileservices.1.3.1\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="9ae27956-fc25-6346-a044-affad933acd5" />
+    <ReferenceAssembly PathName="c:\workspace\todolist-meshed\packages\windowsazure.mobileservices.1.3.1\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="c3fe55d4-dcfc-ac07-236d-f429b050553a" />
+    <ReferenceAssembly PathName="c:\workspace\todolist-meshed\packages\newtonsoft.json.6.0.1\lib\netcore45\newtonsoft.json.dll" HashGuid="09c236d1-053d-8905-8ef0-17027540c930" />
+    <ReferenceAssembly PathName="c:\workspace\todolist-meshed\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\workspace\todolist-meshed\packages\microsoft.net.http.2.2.15\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
